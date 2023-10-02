@@ -18,6 +18,7 @@ ___
 ## Projects
 
 [Develop an Ovulation predictor Calculator using Python ](https://github.com/NandhanGPillai/Ovulation-Day-Prediction) 
+---
 
 1. Created using Visual Studio Code for Python
 2. Motivation: Embarked on this project with the noble intention of aiding individuals who have encountered challenges in identifying their ovulation 
