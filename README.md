@@ -43,6 +43,8 @@ This Weather App is a Python-based graphical user interface (GUI) application th
 6. The retrieved weather data is displayed in a text widget within the GUI. Users can view information such as temperature, humidity, wind speed, 
    pressure, sunrise, sunset, cloudiness, and a weather description.
 
+[Interactive Maths Quiz](
+
 
 
 
