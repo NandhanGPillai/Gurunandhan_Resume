@@ -23,5 +23,8 @@ ___
 1. Created using Visual Studio Code for Python
 2. Motivation: Embarked on this project with the noble intention of aiding individuals who have encountered challenges in identifying their ovulation 
    day and simplifying their life planning.
-3. 
+3. Utilized DateTime Module for date parsing and manipulation.
+4. Error Handling is implemented to ensure valid user inputs and provide informative error messages.
+
+
 
