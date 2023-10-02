@@ -15,3 +15,6 @@ ___
 **Knowledgeable:** Jira, Confluence, ML Concepts, Power BI
 
 ___
+## Projects
+
+[** 
