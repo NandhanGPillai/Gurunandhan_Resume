@@ -45,7 +45,8 @@ This Weather App is a Python-based graphical user interface (GUI) application th
 
 [Interactive Maths Quiz](https://github.com/NandhanGPillai/Interactive-Maths-Quiz)
 ---
-
+1. Motivation: Developed this Python-based educational application designed to help users, especially children, enhance their mathematical problem-solving skills in a fun and engaging manner. The application generates random math problems for users to solve, measures their response times, and provides immediate feedback on their answers.
+2. 
 
 
 
