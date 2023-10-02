@@ -39,6 +39,9 @@ This Weather App is a Python-based graphical user interface (GUI) application th
    data retrieved from the API.
 4. The project integrates with the OpenWeatherMap API to retrieve real-time weather data for specified city names. The API 
    provides weather-related information, including temperature, humidity, wind speed, sunrise, sunset, and more.
+5. The project includes a function, time_format_for_location(utc), which converts UTC timestamps from the API into local time.
+6. The retrieved weather data is displayed in a text widget within the GUI. Users can view information such as temperature, humidity, wind speed, 
+   pressure, sunrise, sunset, cloudiness, and a weather description.
 
 
 
