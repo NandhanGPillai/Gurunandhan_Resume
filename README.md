@@ -94,7 +94,7 @@ Trivandrum | July 2023 - Dec 2023
    * Working as part of a team to design and implement an inventory management system using Python and MySQL.
    * Develop user-friendly interfaces for data entry and reporting using Tkinter.
    * Conduct testing and debugging to identify and resolve software defects.
-   * Documen the system's functionality and user guides for future reference.
+   * Document the system's functionality and user guides for future reference.
  
      
 ## Education
