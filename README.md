@@ -25,6 +25,8 @@ ___
    day and simplifying their life planning.
 3. Utilized DateTime Module for date parsing and manipulation.
 4. Error Handling is implemented to ensure valid user inputs and provide informative error messages.
+5. The calculator prompts users to input the first date of their last menstrual period and the length of their menstrual cycle in days.
+6. Data validation method validates the provided date format and Data Calculation method estimates the Ovulation day.
 
 
 
