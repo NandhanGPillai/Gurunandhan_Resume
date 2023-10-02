@@ -10,7 +10,7 @@ A highly motivated individual seeking to obtain a software engineering position 
 
 ___
 ## Technical Skills
-**Proficient:** Python, SQL, TABLEU
+**Proficient:** Python, SQL, TABLEAU
 
 **Knowledgeable:** Jira, Confluence, ML Concepts, Power BI
 
