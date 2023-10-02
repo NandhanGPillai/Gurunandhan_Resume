@@ -100,7 +100,7 @@ Trivandrum | July 2023 - Dec 2023
 ## Education
 ---
 
-Kerala University, Bachelor of Technology in Electonics and Communication Engineering | June 2013
+Kerala University, Bachelor of Technology in Electronics and Communication Engineering | June 2013
 
 Ariston School of Business Studies, MBA in IT Management | September 2015
 
