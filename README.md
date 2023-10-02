@@ -51,6 +51,12 @@ This Weather App is a Python-based graphical user interface (GUI) application th
 2. Random Module used is utilized to generate random operands and operators for math problems.
 3. Time Module is Used to measure the time taken to solve each problem and calculate the total time.
 4. Eval Function employed to evaluate user-generated math expressions and determine the correctness of answers.
+---
+
+## Experience
+---
+Software Engineer Apprentice, Richinnovations Technologies Pvt Ltd
+
 
 
 
