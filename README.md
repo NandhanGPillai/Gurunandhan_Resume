@@ -17,5 +17,5 @@ ___
 ___
 ## Projects
 
-[** Develop an Ovulation predictor Calculator using Python **]
+[**Develop an Ovulation predictor Calculator using Python **]
 
